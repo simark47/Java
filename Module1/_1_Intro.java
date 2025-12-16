@@ -25,7 +25,7 @@ Java is statically typed and fast
 // class name= program name
 // static means a method which can be used without creating an object
 // --------------------------------------------------------------
-public class Intro{
+public class _1_Intro{
     public static void main(String args[]){System.out.println("hi");
 // System is a standard java class
 // out is the object of printstream class
