@@ -1,19 +1,24 @@
 import java.util.Scanner;
-// 1
-// 22
-// 333
-// 4444
+// floyd triangle
+// 1 
+// 2 3
+// 4 5 6
+// 7 8 9 10 
 
-public class Pattern_4 {
+public class Pattern_14 {
+
     public static void main(String args[]) {
 
         Scanner sc = new Scanner(System.in);
 
-        int n = sc.nextInt();   
+        int n = sc.nextInt();
+        int k=1;
 
         for (int i = 1; i <= n; i++) {
+
             for (int j = 1; j <= i; j++) {
-                System.out.print(i);
+               System.out.print(k+++" ");
+
             }
             System.out.println();
         }

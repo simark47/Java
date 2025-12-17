@@ -1,5 +1,9 @@
 import java.util.Scanner;
-
+// count triangle pattern
+// 1
+// 12
+// 123
+// 1234
 public class Pattern_3 {
     public static void main(String args[]) {
 

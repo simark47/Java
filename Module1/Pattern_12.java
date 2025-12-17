@@ -1,19 +1,25 @@
 import java.util.Scanner;
-// 1
-// 22
-// 333
-// 4444
 
-public class Pattern_4 {
+// A
+// BC
+// DEF
+// GHIJ
+
+
+
+public class Pattern_12 {
+
     public static void main(String args[]) {
 
         Scanner sc = new Scanner(System.in);
 
-        int n = sc.nextInt();   
-
+        int n = sc.nextInt();
+        char a = 'A';
         for (int i = 1; i <= n; i++) {
+
             for (int j = 1; j <= i; j++) {
-                System.out.print(i);
+                System.out.print(a++);
+
             }
             System.out.println();
         }

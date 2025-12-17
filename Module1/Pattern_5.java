@@ -1,5 +1,9 @@
 import java.util.Scanner;
-
+// inverted triangle
+// * * * * 
+// * * *
+// * *
+// *
 public class Pattern_5 {
     public static void main(String args[]) {
 

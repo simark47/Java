@@ -1,4 +1,9 @@
 import java.util.Scanner;
+// 1
+// 01
+// 101
+// 0101
+// 10101
 
 public class Pattern_11 {
 
@@ -30,10 +35,9 @@ public class Pattern_11 {
             }
 
             for (int j = 1; j <= i; j++) {
-              
+
                 System.out.print(start);
-                start = 1 - start;   // switch between 0 and 1
-            
+                start = 1 - start; // switch between 0 and 1
 
             }
             System.out.println();
