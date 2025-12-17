@@ -9,7 +9,7 @@ import java.util.Scanner;
 //    ***
 //     *
 
-public class __Pattern_09 {
+public class _Pattern_09 {
     public static void main(String args[]) {
 
         
