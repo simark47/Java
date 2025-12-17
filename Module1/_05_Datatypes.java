@@ -1,5 +1,6 @@
 public class _05_Datatypes {
     public static void main(String args[]) {
+        // primitives
         boolean b = true; // 1 byte
         char c = 'a'; // 1byte
         short s = 32767; // 2 bytes
@@ -19,6 +20,7 @@ public class _05_Datatypes {
         System.out.println(l);
         System.out.println(maxInt);
         System.out.println(minFloat);
+        // non primitives= String , array, class. object , interface
 
     }
 }
