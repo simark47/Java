@@ -8,7 +8,7 @@ import java.util.*;
 // **
 // *
 
-public class Pattern_10 {
+public class _Pattern_10 {
     public static void main(String args[]) {
 
         Scanner sc = new Scanner(System.in);

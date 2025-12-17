@@ -2,7 +2,7 @@
 import java.util.Scanner;
 // Palindromic pattern
 
-public class Pattern_17 {
+public class _Pattern_17 {
     public static void main(String args[]) {
 
         Scanner sc = new Scanner(System.in);

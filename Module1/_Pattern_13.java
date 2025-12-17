@@ -4,7 +4,7 @@ import java.util.Scanner;
 // *       *
 // *       *
 // * * * * *
-public class Pattern_13 {
+public class _Pattern_13 {
 
     public static void main(String args[]) {
 

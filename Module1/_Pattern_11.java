@@ -5,7 +5,7 @@ import java.util.Scanner;
 // 0101
 // 10101
 
-public class Pattern_11 {
+public class _Pattern_11 {
 
     public static void main(String args[]) {
 
