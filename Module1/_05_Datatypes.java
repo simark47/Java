@@ -1,4 +1,4 @@
-public class _5_Datatypes {
+public class _05_Datatypes {
     public static void main(String args[]) {
         boolean b = true; // 1 byte
         char c = 'a'; // 1byte

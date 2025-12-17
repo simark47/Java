@@ -1,4 +1,4 @@
-public class _4_Variables {
+public class _04_Variables {
        public static void main(String args[]){
         int a=10;
         String b="java";

@@ -4,7 +4,7 @@ import java.util.Scanner;
 // * * *
 // * *
 // *
-public class Pattern_5 {
+public class Pattern_05 {
     public static void main(String args[]) {
 
         Scanner sc = new Scanner(System.in);

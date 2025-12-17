@@ -1,4 +1,4 @@
-public class _6_SumOfTwo {
+public class _06_SumOfTwo {
       public static void main(String args[]){
         int a=20;
         int b=30;

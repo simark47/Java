@@ -1,22 +1,24 @@
 import java.util.Scanner;
-// square pattern
-// * * *  
-// * * * 
-// * * * 
-public class Pattern_1 {
+// star triangle pattern
+
+// *
+// **
+// ***
+
+
+public class Pattern_02 {
     public static void main(String args[]) {
 
-  Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
-        int n = sc.nextInt();   
+        int n = sc.nextInt();
 
         for (int i = 1; i <= n; i++) {
-            for (int j = 1; j <= n; j++) {
+            for (int j = 1; j <= i; j++) {
                 System.out.print("* ");
             }
             System.out.println();
         }
-
 
     }
 }

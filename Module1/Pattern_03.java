@@ -4,7 +4,7 @@ import java.util.Scanner;
 // 12
 // 123
 // 1234
-public class Pattern_3 {
+public class Pattern_03 {
     public static void main(String args[]) {
 
         Scanner sc = new Scanner(System.in);

@@ -1,4 +1,4 @@
-public class _7_Product {
+public class _07_Product {
      public static void main(String args[]){
         int a=20;
         int b=30;
